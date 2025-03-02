@@ -1,8 +1,8 @@
 # 20_credit-risk-classification
 
 # Deliverable(s)
-[Credit Risk Report]()<br/>
-[credit_risk_classification.ipynb]()<br/>
+[Credit Risk Report](https://github.com/wrighang/20_credit-risk-classification/blob/main/credit_risk_report.md)<br/>
+[credit_risk_classification.ipynb](https://github.com/wrighang/20_credit-risk-classification/blob/main/Credit_Risk/credit_risk_classification.ipynb)<br/>
 
 ## Background
 In this Challenge, I use various techniques to train and evaluate a model based on loan risk. I use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
